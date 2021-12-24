@@ -4,4 +4,4 @@
 ![screenshot](./src/assets/facts.jpeg)
 
 ## Live Demo
-[Live Demo](https://fun-facts-about-react.netlify.app/):point_left:
+[Live Demo](https://fun-facts-about-react.netlify.app/) :point_left:
