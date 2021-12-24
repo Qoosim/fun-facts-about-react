@@ -5,7 +5,7 @@ function Navbar(props) {
     <nav className={props.darkMode ? 'dark' : ''}>
       <img 
         className='nav-logo-icon' 
-        src='/assets/react-icon-small.png' 
+        src='../assets/react-icon-small.png' 
         alt='' 
       />
       <h3 className="nav-logo-text">ReactFacts</h3>
